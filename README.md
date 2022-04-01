@@ -1,2 +1,3 @@
-# Mael-s-WeatherApp
-Udemy react-native course
+# Mael's Weather App
+
+Udemy course of react native.
